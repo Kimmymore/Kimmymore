@@ -7,7 +7,7 @@
 ### A little more about me
 <p>Hi! I'm Kim, on GitHub known as Kimmymore. <br>
 I'm a cloud infra specialist based in Amsterdam, The Netherlands. <br>
-I'm best known with Microsoft Azure, but also know my way around on Amazon AWS. <br>
+I'm most familiar with Microsoft Azure, but also know my way around on Amazon AWS. <br>
 When it comes to infrastructure as code I'm on team Terraform, though I am also familiar with ARM and Bicep. <br>
 </p>
 
