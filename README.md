@@ -1,4 +1,4 @@
-### Hi! It's me, Kim 🙋🏼‍♀️
+# Hi! It's me, Kim 🙋🏼‍♀️
 
 ## A little more about me
 Hi! I'm Kim, on GitHub known as Kimmymore.
