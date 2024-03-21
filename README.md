@@ -11,9 +11,9 @@ I'm best known with Microsoft Azure, but also know my way around on Amazon AWS. 
 When it comes to infrastructure as code I'm on team Terraform, though I am also familiar with ARM and Bicep. <br>
 </p>
 
-<p>I focus on cloud infrastructure with a modernisation mindset. I prefer PaaS and containerised solutions over good ol' VM's. <br>
-I've noticed that infra engineers and application developers ofter don't understand each other well, so I like to bridge that gap. Because I believe that cloud infrastructure and application code need to be well integrated with and adjusted to each other to get the best results I'm also interested knowing more about application development. Not only when it comes to code languages, but also workflow principles and design.
-When cloud infrastructure and application code are working together we can lower the costs and limit the impact on the environment (by using less computing power). 
+<p>I focus on cloud infrastructure with an application modernisation mindset. I prefer PaaS and containerised solutions over good ol' VM's. <br>
+I've noticed that infra engineers and application developers ofter don't understand each other well, so I like to bridge that gap. Because I believe that cloud infrastructure and application code need to be well integrated with and adjusted to each other to get the best results I'm also interested in knowing more about application development. Not only when it comes to code languages, but also workflow principles and design. <br>
+When cloud infrastructure and application code are working together we can lower the costs, limit the impact on the environment (by using less computing power) and give developers freedom to develop, while still keeping the environment secure. 
 </p>
 
 ### I'm currently learning
