@@ -21,7 +21,7 @@ You can find more about my career development on [LinkedIn](https://www.linkedin
 ---
 
 ### I'm currently learning
-I'm currently learning webapp development with Python and Django!
+I'm currently learning webapp development with Python and Flask!
 
 ### Ask me about
 Ask me about cloud infrastructure and how to use it in an optimal way, how to efficiently deploy to Azure and AWS, how to secure your cloud environment and how to design a cloud environment that meets your needs. 
