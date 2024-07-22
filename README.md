@@ -11,11 +11,11 @@
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1920px-Microsoft_Azure.svg.png" alt="Microsoft Azure" width="50" height="50">
-&nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;
     <img src="https://www.pngplay.com/wp-content/uploads/3/Amazon-Web-Services-AWS-Logo-Transparent-PNG.png" alt="Amazon Web Services" width="70" height="50">
-&nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;
     <img src="https://firebasestorage.googleapis.com/v0/b/standards-site-beta.appspot.com/o/documents%2F4a24m5t0li5%2Fantwtl4lq0z%2FHc%20Terraform%20on%20black.svg?alt=media&token=e8534e4c-8ed1-4a2c-a0af-26db112171fd" alt="Terraform" width="150" height="75">
-&nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;
     <img src="https://github.com/cncf/artwork/blob/main/projects/kubernetes/horizontal/all-blue-color/kubernetes-horizontal-all-blue-color.png?raw=true"als="Kubernetes" width="180" height="50">
 </div>
 
